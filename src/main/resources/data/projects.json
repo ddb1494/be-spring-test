@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "name": "스프링 부트 프로젝트",
+    "description": "스프링 부트 기능을 시연하는 프로젝트입니다.",
+    "ownerId": 1,
+    "memberIds": [1, 2, 3]
+  },
+  {
+    "id": 102,
+    "name": "리액트 프론트엔드",
+    "description": "주요 프로젝트를 위한 사용자 인터페이스입니다.",
+    "ownerId": 1,
+    "memberIds": [1, 4, 5]
+  },
+  {
+    "id": 103,
+    "name": "데이터 분석 파이프라인",
+    "description": "데이터를 처리하고 분석하는 프로젝트입니다.",
+    "ownerId": 2,
+    "memberIds": [2, 6, 7]
+  },
+  {
+    "id": 104,
+    "name": "머신 러닝 모델",
+    "description": "예측을 위한 머신 러닝 모델을 개발합니다.",
+    "ownerId": 3,
+    "memberIds": [3, 8, 9]
+  },
+  {
+    "id": 105,
+    "name": "모바일 앱",
+    "description": "프로젝트를 위한 모바일 애플리케이션을 만듭니다.",
+    "ownerId": 4,
+    "memberIds": [4, 10, 1]
+  },
+  {
+    "id": 106,
+    "name": "클라우드 인프라",
+    "description": "확장성을 위한 클라우드 인프라를 설정합니다.",
+    "ownerId": 5,
+    "memberIds": [5, 2, 3]
+  },
+  {
+    "id": 107,
+    "name": "전자상거래 플랫폼",
+    "description": "전자상거래 플랫폼을 구축합니다.",
+    "ownerId": 6,
+    "memberIds": [6, 4, 5]
+  },
+  {
+    "id": 108,
+    "name": "IoT 통합",
+    "description": "시스템과 IoT 장치를 통합합니다.",
+    "ownerId": 7,
+    "memberIds": [7, 6, 8]
+  },
+  {
+    "id": 109,
+    "name": "블록체인 원장",
+    "description": "거래를 위한 블록체인 원장을 개발합니다.",
+    "ownerId": 8,
+    "memberIds": [8, 9, 10]
+  },
+  {
+    "id": 110,
+    "name": "사이버 보안 프레임워크",
+    "description": "사이버 보안 프레임워크를 구현합니다.",
+    "ownerId": 9,
+    "memberIds": [9, 1, 2]
+  }
+]

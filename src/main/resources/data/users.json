@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "홍길동",
+    "email": "hong@example.com"
+  },
+  {
+    "id": 2,
+    "name": "김철수",
+    "email": "kim@example.com"
+  },
+  {
+    "id": 3,
+    "name": "이영희",
+    "email": "lee@example.com"
+  },
+  {
+    "id": 4,
+    "name": "박민수",
+    "email": "park@example.com"
+  },
+  {
+    "id": 5,
+    "name": "최지훈",
+    "email": "choi@example.com"
+  },
+  {
+    "id": 6,
+    "name": "정다은",
+    "email": "jung@example.com"
+  },
+  {
+    "id": 7,
+    "name": "한예슬",
+    "email": "han@example.com"
+  },
+  {
+    "id": 8,
+    "name": "오세훈",
+    "email": "oh@example.com"
+  },
+  {
+    "id": 9,
+    "name": "유재석",
+    "email": "yoo@example.com"
+  },
+  {
+    "id": 10,
+    "name": "강호동",
+    "email": "kang@example.com"
+  }
+]
